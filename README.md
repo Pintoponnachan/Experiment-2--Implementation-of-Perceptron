@@ -117,6 +117,7 @@ plt.ylabel('Errors')
 plt.show()
 ```
 OUTPUT:
+
 ![image](https://github.com/Pintoponnachan/Experiment-2--Implementation-of-Perceptron/assets/131936892/a2d7b48d-5f76-4e42-a9e2-3af5e56d7f8e)
 
 ![image](https://github.com/Pintoponnachan/Experiment-2--Implementation-of-Perceptron/assets/131936892/37381bc8-78e3-46f8-b6cc-8c16c3c68ff3)
